@@ -1,7 +1,14 @@
-Joseph Barawisata resume
-work experience:
+#Joseph Barawisata resume
 
-extra ciriculars:
+##education:
+Middle School
+- JcBooth middle school(
+High School
+- Mcintosh High School (2019-2023)
 
-education:
+##work experience:
+
+
+##extra ciriculars:
+
 
