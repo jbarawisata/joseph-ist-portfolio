@@ -17,4 +17,5 @@ oyama suchi steakhouse (summer of 2019-2022)
 
 ## hobbies:
 - league of legends
-- studying (im a nerd)
+- studying 
+- being a nerd in general
