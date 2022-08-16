@@ -14,6 +14,7 @@ oyama suchi steakhouse (summer of 2019-2022)
 - fry cook
 - kitchen assistant
 - grill cleaner
-##hobbies:
+
+## hobbies:
 - league of legends
 - studying (im a nerd)
