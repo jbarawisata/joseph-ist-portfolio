@@ -1,12 +1,12 @@
-#Joseph Barawisata resume
+# Joseph Barawisata resume
 
-##education:
+## education:
 Middle School
 - JcBooth middle school(2016-2019)
 High School
 - Mcintosh High School (2019-2023)
 
-##employment:
+## employment:
 Kobe Japanese Steakhouse (2020)
 - busboy
 - dishwasher 
