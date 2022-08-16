@@ -1,5 +1,10 @@
-/***
-```java
-System.out.print("hello");
-```
-***/
+Public class Main
+{
+  public static void main(String args[])
+  {
+   
+    System.out.print("hello");
+
+  }
+}
+
