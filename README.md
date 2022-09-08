@@ -3,5 +3,5 @@ Hey! I am Joseph and I hate having a healthy sleep schedule. this portfolio is f
 
 ## contents
 - [resume](resume.md)
-- [binary logic](truth-table.md)\
-- 
+- [binary logic](truth-table.md)
+- [programing languages table](table_programming_languages.md)
