@@ -25,3 +25,7 @@ oyama sushi steakhouse (summer of 2019-2022)
 - league of legends
 - studying 
 - being a nerd in general
+
+## typing skills:
+- 45 wpm (thnak god i'm not going into cs)
+- only 1 broken keyboard from typing practice (dont worry it was a membrane keyboard it deserved it)
